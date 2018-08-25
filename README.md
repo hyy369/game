@@ -1,4 +1,4 @@
-![alt text](https://github.com/hyy369/serene/title.png)
+![alt text](https://github.com/hyy369/serene/blob/master/title.png)
 # Serene
 
 Serene is a game about a futuristic space Odyssey, an eventful adventure through a hacked space station. Serene takes one of the most successful physics puzzle games of all time, Portal, and splits it into bite-size chunks for casual gamers. Below our handcrafted graphics and sound effects lies our deep worry about the risk of AI rebellion in the future.
