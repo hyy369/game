@@ -31,8 +31,8 @@ _Serene_ takes place in the future on a spaceship, run by a seemingly benevolent
 ### Instructions
 
 ```bash
-git clone --recursive https://github.com/tz0/game
-cd game
+git clone --recursive https://github.com/hyy369/serene
+cd serene
 mkdir Release
 cd Release
 cmake ..
